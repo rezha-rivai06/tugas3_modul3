@@ -2,7 +2,7 @@ package After;
 
 /**
  *
- * @param owner            Nama pemilik
+ * @param owner            Nama pemilik akun
  * @param balance          saldo awal akun
  * @param monthlyDeposit   Jumlah uang yang disetorkan tiap bulan
  * @param monthlyWithdraw  Jumlah uang yang ditarik tiap bulan
